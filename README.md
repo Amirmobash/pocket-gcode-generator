@@ -14,7 +14,7 @@ A lightweight **Tkinter** app to generate safe, layered **pocketing G‑code** f
 - **Stats**: holes / layers / passes
 - **Profiles**: save/load machining parameters (JSON)
 - **WinPC‑NC** friendly output (G21 G90 G17 G94 G54, `M3/M5`, arc `G3` with IJ)
-- **Logging** to `logs/`
+- **Logging** to `logs/`Amir Mobasheraghdam
 
 ---
 
